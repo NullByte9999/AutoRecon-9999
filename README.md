@@ -41,8 +41,7 @@ Clone the repository and set execution permissions for the script:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/NullByte999/AutoRecon-999.git](https://github.com/NullByte999/AutoRecon-999.git)
-
+git clone https://github.com/NullByte9999/AutoRecon-9999.git
 # Navigate into the tool directory
 cd AutoRecon-999
 
