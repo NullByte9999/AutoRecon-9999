@@ -37,11 +37,20 @@ Manual reconnaissance can be tedious and time-consuming. This tool chains multip
 
 ## 📥 Installation
 
-*(Add your custom installation commands here once your script files are uploaded to the repository)*
+Clone the repository and set execution permissions for the script:
 
 ```bash
-# [YOUR INSTALLATION COMMANDS HERE]
-# Example:
-# git clone [https://github.com/NullByte999/AutoRecon-999.git](https://github.com/NullByte999/AutoRecon-999.git)
-# cd AutoRecon-999
-# chmod +x your-script.sh
+# Clone the repository
+git clone [https://github.com/NullByte999/AutoRecon-999.git](https://github.com/NullByte999/AutoRecon-999.git)
+
+# Navigate into the tool directory
+cd AutoRecon-999
+
+# Give executable permissions to the script
+chmod +x recontool.sh
+
+
+⚙️ Usage
+Run the tool with root privileges (recommended for Nmap and scanning utilities):
+
+sudo ./recontool.sh
