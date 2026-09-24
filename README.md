@@ -32,6 +32,9 @@ Manual reconnaissance can be tedious and time-consuming. This tool chains multip
 
 ---
 ![Tool Preview](Screenshot_2026-09-23_22_45_14.png)
+![Tool Preview](Screenshot_2026-09-23_22_45_26.png)
+
+
 ## 📥 Installation
 
 *(Add your custom installation commands here once your script files are uploaded to the repository)*
